@@ -68,7 +68,7 @@
 						<archive>
 							<addMavenDescriptor>false</addMavenDescriptor>
 						</archive>
-						<finalName>ModTRSBot</finalName>
+						<finalName>LogShit</finalName>
 					</configuration>
 				</plugin>
 				<plugin>
