@@ -1,0 +1,4 @@
+name: LogShit
+main: nu.nerd.logshit.LogShit
+version: 0.2
+author: Deaygo Jarkko
